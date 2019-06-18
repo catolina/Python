@@ -1,0 +1,5 @@
+1. Znajdź drugą największą pozycję w liście: [10, 100, 5, 17, 35, 48, 73, 15, 12]
+2. Znajdź drugą największą pozycję na liście: [10, 100, 5, 17, 100, 100, 35, 48, 73, 15, 12]
+3. Napisać polecenia, które w tekście: "Mruczek jest niegrzecznym kotem" podają:
+    a. na której pozycji jest pierwsza litera 'k'
+    b. zrob print ostatniego slowa w zdaniu (wyszukując spację)
