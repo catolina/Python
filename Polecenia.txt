@@ -1,0 +1,13 @@
+Polecenia:
+x Usuń wiersze z brakami danych
+x Czy wśród 25% pracowników najbardziej wydajnych jest więcej kobiet (1) czy mężczyzn (0)?
+x Podaj podstawowe statystyki dla osób, które zarabiają powyżej średniej krajowej. Pensje podane są w brutto
+x Ile kobiet zarabia powyżej a ile poniżej średniej?
+x Jaka jest średnia i odchylenie standardowe wieku
+x Narysuj histogram wieku
+x Narysuj histogram wypłat
+x Czy osoby zatrudnione w pierwszym kwartale znacznie się różnią od tych zatrudnionych w drugim? Dokonaj analizy
+******
+x Czy istnieje relacja pomiędzy stanem cywilnym a wydajnością?
+x Czy istnieje relacja między wiekiem a wypłatą?
+x Narysuj wykres zaleznosci wieku od wynagrodzenia
